@@ -1,0 +1,14 @@
+C:\Users\Matti\OneDrive\Dokument\TUC\Programmering Fördjupning\Game\Game\Game\obj\Debug\netcoreapp3.1\Game.AssemblyInfoInputs.cache
+C:\Users\Matti\OneDrive\Dokument\TUC\Programmering Fördjupning\Game\Game\Game\obj\Debug\netcoreapp3.1\Game.AssemblyInfo.cs
+C:\Users\Matti\OneDrive\Dokument\TUC\Programmering Fördjupning\Game\Game\Game\obj\Debug\netcoreapp3.1\Game.csproj.CoreCompileInputs.cache
+C:\Users\Matti\OneDrive\Dokument\TUC\Programmering Fördjupning\Game\Game\Game\bin\Debug\netcoreapp3.1\Game.exe
+C:\Users\Matti\OneDrive\Dokument\TUC\Programmering Fördjupning\Game\Game\Game\bin\Debug\netcoreapp3.1\Game.deps.json
+C:\Users\Matti\OneDrive\Dokument\TUC\Programmering Fördjupning\Game\Game\Game\bin\Debug\netcoreapp3.1\Game.runtimeconfig.json
+C:\Users\Matti\OneDrive\Dokument\TUC\Programmering Fördjupning\Game\Game\Game\bin\Debug\netcoreapp3.1\Game.runtimeconfig.dev.json
+C:\Users\Matti\OneDrive\Dokument\TUC\Programmering Fördjupning\Game\Game\Game\bin\Debug\netcoreapp3.1\Game.dll
+C:\Users\Matti\OneDrive\Dokument\TUC\Programmering Fördjupning\Game\Game\Game\bin\Debug\netcoreapp3.1\Game.pdb
+C:\Users\Matti\OneDrive\Dokument\TUC\Programmering Fördjupning\Game\Game\Game\obj\Debug\netcoreapp3.1\Game.dll
+C:\Users\Matti\OneDrive\Dokument\TUC\Programmering Fördjupning\Game\Game\Game\obj\Debug\netcoreapp3.1\Game.pdb
+C:\Users\Matti\OneDrive\Dokument\TUC\Programmering Fördjupning\Game\Game\Game\obj\Debug\netcoreapp3.1\Game.genruntimeconfig.cache
+C:\Users\Matti\OneDrive\Dokument\TUC\Programmering Fördjupning\Game\Game\Game\obj\Debug\netcoreapp3.1\Game.csproj.AssemblyReference.cache
+C:\Users\Matti\OneDrive\Dokument\TUC\Programmering Fördjupning\Game\Game\Game\obj\Debug\netcoreapp3.1\Game.GeneratedMSBuildEditorConfig.editorconfig
